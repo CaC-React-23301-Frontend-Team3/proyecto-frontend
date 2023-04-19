@@ -7,7 +7,7 @@ Proyecto grupal para el curso de Codo a Codo React comisión 23301
 
 ## Integrantes:
 
-###- Ithurburu Juan Pablo
-###- Quiroga Martín
-###- Mariangela Gomez
-###- Agustín Moldasvky
+### - Ithurburu Juan Pablo
+### - Quiroga Martín
+### - Mariangela Gomez
+### - Agustín Moldasvky
