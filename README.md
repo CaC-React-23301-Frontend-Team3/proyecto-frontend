@@ -11,3 +11,4 @@ Proyecto grupal para el curso de Codo a Codo React comisión 23301
 ### - Quiroga Martín
 ### - Mariangela Gomez
 ### - Agustín Moldasvky
+### - Andrés Drimer
