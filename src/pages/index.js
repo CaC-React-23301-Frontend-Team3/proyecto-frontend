@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Hola Mundo</h1>
+        <h1>Hola Mundo...</h1>
       </main>
     </>
   )
