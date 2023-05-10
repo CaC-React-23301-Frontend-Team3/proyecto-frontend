@@ -8,7 +8,7 @@ Proyecto grupal para el curso de Codo a Codo React comisión 23301
 ## Integrantes:
 
 ### - Ithurburu Juan Pablo
-### - Quiroga Martín
+### - Quiroga Martín (35 años)
 ### - Mariangela Gomez
 ### - Agustín Moldasvky
 ### - Andrés Drimer
